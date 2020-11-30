@@ -1,1 +1,1 @@
-# fist-repository
+# first-repository
